@@ -33,7 +33,7 @@ Tengo mucha curiosidad 🔍 y ganas de aprender.📖
 
 - 📸Me encanta la fotografía
 -  🎧La música la mejor compañera
-- ⛰️Amo la naturaleza, los perros🐶 las rutas, Los viajes en bicicleta🚴🏽‍♀️
+- ⛰️Amo la naturaleza, los paseos y rutas con mis 🐶, Los viajes en bicicleta.
 
 
 
