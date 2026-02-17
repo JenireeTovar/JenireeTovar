@@ -1,4 +1,41 @@
-## Hi there 👋
+## ¡Hola! Soy Jenireé 👋 Y estoy explorando el mundo de los datos 🗺️ 
+
+Actualmente estoy estudiando Data Analyst 📊 y reinventándome profesionalmente 👩🏽‍💻
+
+## 🙋🏽‍♀️ Sobre mí
+
+Después de muchos años trabajando en el sector logístico 🚛, he decidido iniciar este nuevo camino del análisis de datos🕵🏽‍♀️.
+Tengo mucha curiosidad 🔍 y ganas de aprender.📖
+
+
+## 🛠️Tecnologías y herramientas
+
+**Estoy aprendiendo:**
+
+- 🐍Python
+  
+- Git & GitHub
+
+- Google Sheets
+
+- 📊Visualización de datos
+
+## 🎯Objetivo profesional
+
+- Dar el salto al sector tecnológico
+- 📚Seguir aprendiendo hasta convertirme finalmente en una buena Data analyst
+
+## 📫Cómo contactarme
+
+- **✉️Email:** jenireetovar@gmail.com
+
+## ⚡️Datos curiosos 
+
+- 📸Me encanta la fotografía
+-  🎧La música la mejor compañera
+- ⛰️Amo la naturaleza, los perros🐶 las rutas, Los viajes en bicicleta🚴🏽‍♀️
+
+
 
 <!--
 **JenireeTovar/JenireeTovar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
