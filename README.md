@@ -23,7 +23,7 @@ Tengo mucha curiosidad 🔍 y ganas de aprender.📖
 ## 🎯Objetivo profesional
 
 - Dar el salto al sector tecnológico
-- 📚Seguir aprendiendo hasta convertirme finalmente en una buena analista de datos
+- 🎓Seguir aprendiendo hasta convertirme finalmente en una buena analista de datos
 
 ## 📫Cómo contactarme
 
