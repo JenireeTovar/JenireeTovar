@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Jenireé 👋 Y estoy explorando el mundo de los datos 🗺️ 
 
-Actualmente estoy estudiando Data Analyst 📊 y reinventándome profesionalmente 👩🏽‍💻
+Actualmente aprendiendo Data Analyst 📊 y reinventándome profesionalmente 👩🏽‍💻
 
 ## 🙋🏽‍♀️ Sobre mí
 
